@@ -1,0 +1,6 @@
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/bellman-ford/bellman-ford/bin/Debug/bellman_ford.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/bellman-ford/bellman-ford/bin/Debug/bellman_ford.pdb
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/bellman-ford/bellman-ford/obj/Debug/bellman-ford.csprojAssemblyReference.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/bellman-ford/bellman-ford/obj/Debug/bellman-ford.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/bellman-ford/bellman-ford/obj/Debug/bellman_ford.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/bellman-ford/bellman-ford/obj/Debug/bellman_ford.pdb
